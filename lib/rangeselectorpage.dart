@@ -20,7 +20,7 @@ class _RangeSelectorPageState extends State<RangeSelectorPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Select Range'),
+        title: const Text('Range Select'),
       ),
       body: RangeSelectorForm(
         formKey: formKey,
