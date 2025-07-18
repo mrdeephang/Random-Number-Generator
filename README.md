@@ -15,3 +15,4 @@ It's an android mobile appication that generates random number made using Flutte
 - Flutter SDK
 - Dart
 - Android Studio or VS Code
+- Android Emulator or Physical Device
